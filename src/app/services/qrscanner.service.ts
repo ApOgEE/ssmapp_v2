@@ -4,7 +4,8 @@ import { TranslateService } from '@ngx-translate/core';
 import { ConnectionStatus, NetworkService } from './network.service';
 import { SsmQueryService } from './ssmquery.service';
 
-const apiv2url = 'https://m.ssm.com.my/apiv2/index.php/'
+// const apiv2url = 'https://m.ssm.com.my/apiv2/index.php/'
+const apiv2url = 'https://m.ssm.com.my/apiv2/index.php/dev/'
 
 @Injectable({
   providedIn: 'root'
