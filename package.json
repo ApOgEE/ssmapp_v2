@@ -59,7 +59,7 @@
     "tslib": "^1.13.0"
   },
   "devDependencies": {
-    "@angular-devkit/architect": "^0.1202.16",
+    "@angular-devkit/architect": "^0.1402.9",
     "@angular-devkit/build-angular": "^14.0.0",
     "@angular/cli": "^14.0.0",
     "@angular/compiler": "^14.0.0",
